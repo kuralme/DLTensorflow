@@ -1,2 +1,2 @@
 # DLTensorflow
-My course notebooks for edX - Deep Learning with Tenserflow
+My lab notebooks for the edX - Deep Learning with Tenserflow course
